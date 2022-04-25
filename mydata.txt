@@ -2,4 +2,4 @@ Name: Ana Oliveira
 Program: PhD in Industrial Relations
 Research Area: Dynamics of low income workers and their perception of workers' rights
 
-Programming languages: R, Python, Git
+Programming languages: R, Python, Git and Fortran
